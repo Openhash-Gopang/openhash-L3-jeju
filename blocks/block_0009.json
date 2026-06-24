@@ -1,0 +1,50 @@
+{
+  "block_number": 9,
+  "block_type": "HASH_CHAIN_ANCHOR",
+  "node_id": "KR-JEJU",
+  "layer": 3,
+  "timestamp": "2026-06-24T06:32:18.985037+00:00",
+  "data": {
+    "entry_hash": "1420af3930620a7851c9efb8a164afdfd7addb544ac06828e615b1c61553e239",
+    "content_hash": "1f33e874313da6def3a0be2e323907799640e0f48685856daa46a19eb0e48353",
+    "msg_id": "REG-2601db8040e6-1782282730889",
+    "signatures": [
+      {
+        "buyer_public_key": "yh96RK-R2Z3rWz5l-eedHm7T0lWBctY3LAdJhpUBkSM",
+        "buyer_sig": "n7bCVmZ21Fhh9hMU2jBs2U-H8PU2gQfV-d9aXL9de9ChSjaDKdthLujVOdYeUUXfwZUk-R9m5mmDws1xn0Q6DQ",
+        "prev_settle_hash": null,
+        "tx": {
+          "input": {
+            "balance_claimed": 0,
+            "owner_guid": "2601:db80:40e6:5cbf:9e2e:252e:9560:2b80",
+            "prev_settle_hash": null
+          },
+          "items": [],
+          "nonce": "5aa939f243f39671",
+          "outputs": [
+            {
+              "amount": 0,
+              "recipient_guid": ""
+            },
+            {
+              "amount": 0,
+              "recipient_guid": "gopang-platform"
+            }
+          ],
+          "timestamp": 1782282730,
+          "version": 1
+        },
+        "tx_hash": "be3fd1cad247b34b65e5d1f254a3326722c101d0ba9c465502d8793a3668b555"
+      }
+    ],
+    "merkle_layer": "L3",
+    "score": 0,
+    "lcat": "B",
+    "block_height": 1782282730,
+    "submitted_at": "2026-06-24T06:32:10.891Z"
+  },
+  "prev_hash": "5df87e86a66b36d7114a19baccaaefcfd77f3ea503f0525c707b0c9c7109af3a",
+  "nonce": 0,
+  "openhash_tx": "CONFIRMED",
+  "hash": "3336d345579441e0a60bd516e7a3428fec14db18ef5d3b0dbff395413eed9346"
+}
